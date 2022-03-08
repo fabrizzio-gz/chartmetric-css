@@ -1,3 +1,5 @@
+# Coding Exercise: CSS
+
 We would like for you to build out the HTML and CSS for the following navbar. We would like to navbar to be responsive, and you may choose your own breakpoint. Feel free to use CSS, SCSS, SASS, LESS, or whatever else suits your fancy, but no CSS libraries or frameworks — we want to see your own raw CSS code.
 
 We are looking for clean, elegant, and easy to understand code.
