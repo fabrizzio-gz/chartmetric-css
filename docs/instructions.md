@@ -10,11 +10,11 @@ Bonus points for SEO and Accessibility considerations. Feel free to include a RE
 
 **Full/Desktop Mockup** (screenshot not true size)
 
-![desktop navbar](../img/desktop_navbar.png)
+![desktop navbar](img/desktop_navbar.png)
 
 **Mobile Mockup** (screenshot not true size)
 
-![mobile navbar](../img/mobile_navbar.png)
+![mobile navbar](img/mobile_navbar.png)
 
 **Chartmetric logo**
 
