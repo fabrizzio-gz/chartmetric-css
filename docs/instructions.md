@@ -10,11 +10,11 @@ Bonus points for SEO and Accessibility considerations. Feel free to include a RE
 
 **Full/Desktop Mockup** (screenshot not true size)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c4b6468a-62bc-46b8-a0b4-fae875bb57df/Untitled.png)
+![desktop navbar](../img/desktop_navbar.png)
 
 **Mobile Mockup** (screenshot not true size)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f482be40-8100-4818-ab7d-aa6aa26e8897/Untitled.png)
+![mobile navbar](../img/mobile_navbar.png)
 
 **Chartmetric logo**
 
