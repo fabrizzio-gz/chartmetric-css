@@ -60,6 +60,7 @@ nav a {
   max-width: 200px;
   text-indent: 25px;
   padding: 0.25rem;
+  margin-left: 0.75rem;
 }
 
 @media (max-width: 480px) {
