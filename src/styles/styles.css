@@ -25,6 +25,10 @@ nav a {
   color: inherit;
 }
 
+.navbar__main-site h1 {
+  font-weight: normal;
+}
+
 .flex-center {
   display: flex;
   gap: 0.5rem;
