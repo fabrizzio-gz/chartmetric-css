@@ -63,7 +63,7 @@ nav a {
   margin-left: 0.75rem;
 }
 
-@media (max-width: 480px) {
+@media (max-width: 560px) {
   nav {
     padding-left: 0.5rem;
     padding-right: 0.75rem;
