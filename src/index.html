@@ -6,6 +6,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>CSS Navbar</title>
     <link rel="stylesheet" href="styles/styles.css" />
+    <script
+      src="https://kit.fontawesome.com/1a6b9ff5e6.js"
+      crossorigin="anonymous"
+    ></script>
   </head>
   <body>
     <nav>
@@ -20,11 +24,19 @@
         <h1><a href="#">Chartmetric</a></h1>
       </div>
       <div class="navbar__secondary flex-center">
+        <i class="fas fa-search"></i>
         <input type="text" />
         <ul class="navbar__links flex-center">
-          <li><a href="#">First</a></li>
-          <li><a href="#">Second</a></li>
-          <li><a href="#">Third</a></li>
+          <!-- Couldn't use bullhorn icon. Fontawesome pro required -->
+          <li>
+            <a href="#"><i class="fas fa-asterisk"></i></a>
+          </li>
+          <li>
+            <a href="#"><i class="far fa-bell"></i></a>
+          </li>
+          <li>
+            <a href="#"><i class="fas fa-bars"></i></a>
+          </li>
         </ul>
       </div>
     </nav>
