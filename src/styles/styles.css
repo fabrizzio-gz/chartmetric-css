@@ -25,11 +25,11 @@ body {
   color: inherit;
 }
 
-.navbar__main-site {
+.navbar__main {
   gap: 0.5rem !important; /* Override .flex-center value */
 }
 
-.navbar__main-site h1 {
+.navbar__main h1 {
   font-weight: normal;
 }
 
@@ -62,7 +62,7 @@ body {
     padding-left: 0.5rem;
     padding-right: 0.75rem;
   }
-  .navbar__main-site h1 {
+  .navbar__main h1 {
     display: none;
   }
 }
