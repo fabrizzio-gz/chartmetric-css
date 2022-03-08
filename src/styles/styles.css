@@ -50,8 +50,8 @@ nav a {
 
 .navbar__search i {
   position: absolute;
-  left: 10px;
-  color: darkgray;
+  left: 20px;
+  color: rgb(63, 63, 63);
   pointer-events: none;
 }
 
