@@ -48,6 +48,8 @@ nav a {
 }
 
 .navbar__search input {
+  width: 100%;
+  max-width: 200px;
   text-indent: 25px;
   padding: 0.25rem;
 }
