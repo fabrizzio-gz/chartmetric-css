@@ -1,3 +1,24 @@
+:root {
+  --navbar-bg: #1d2b38;
+  --navbar-font-color: #e3e5e7;
+  --navbar-height: 50; /* px */
+}
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+}
+
 nav {
-  background: black;
+  background: var(--navbar-bg);
+  color: var(--navbar-font-color);
+  height: calc(var(--navbar-height) * 1px);
+  box-sizing: border-box;
+  display: flex;
+  padding: 10px 1rem;
+}
+
+nav a {
+  text-decoration: none;
+  color: inherit;
 }
