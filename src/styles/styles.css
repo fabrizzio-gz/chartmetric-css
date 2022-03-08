@@ -35,3 +35,19 @@ nav a {
   list-style: none;
   padding-left: 0.5rem;
 }
+
+.navbar__search {
+  position: relative;
+}
+
+.navbar__search i {
+  position: absolute;
+  left: 10px;
+  color: darkgray;
+  pointer-events: none;
+}
+
+.navbar__search input {
+  text-indent: 25px;
+  padding: 0.25rem;
+}
