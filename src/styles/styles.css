@@ -51,3 +51,9 @@ nav a {
   text-indent: 25px;
   padding: 0.25rem;
 }
+
+@media (max-width: 480px) {
+  .navbar__main-site h1 {
+    display: none;
+  }
+}
