@@ -25,13 +25,17 @@ nav a {
   color: inherit;
 }
 
+.navbar__main-site {
+  gap: 0.5rem !important; /* Override .flex-center value */
+}
+
 .navbar__main-site h1 {
   font-weight: normal;
 }
 
 .flex-center {
   display: flex;
-  gap: 0.5rem;
+  gap: 1rem;
   align-items: center;
 }
 
