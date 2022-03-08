@@ -33,11 +33,6 @@ body {
   font-weight: normal;
 }
 
-.navbar__links {
-  list-style: none;
-  padding-left: 0.5rem;
-}
-
 .navbar__search {
   position: relative;
 }
@@ -55,6 +50,11 @@ body {
   text-indent: 25px;
   padding: 0.25rem;
   margin-left: 0.75rem;
+}
+
+.navbar__links {
+  list-style: none;
+  padding-left: 0.5rem;
 }
 
 @media (max-width: 560px) {
