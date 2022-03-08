@@ -37,11 +37,10 @@ body {
   position: relative;
 }
 
-.navbar__search i {
+.navbar__search label {
   position: absolute;
   left: 20px;
   color: rgb(63, 63, 63);
-  pointer-events: none;
 }
 
 .navbar__search input {
