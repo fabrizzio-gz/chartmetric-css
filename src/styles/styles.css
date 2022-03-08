@@ -9,7 +9,7 @@ body {
   margin: 0;
 }
 
-nav {
+.navbar {
   background: var(--navbar-bg);
   color: var(--navbar-font-color);
   height: calc(var(--navbar-height) * 1px);
@@ -20,7 +20,7 @@ nav {
   align-items: center;
 }
 
-nav a {
+.navbar a {
   text-decoration: none;
   color: inherit;
 }
@@ -64,7 +64,7 @@ nav a {
 }
 
 @media (max-width: 560px) {
-  nav {
+  .navbar {
     padding-left: 0.5rem;
     padding-right: 0.75rem;
   }
