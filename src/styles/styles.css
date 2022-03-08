@@ -14,11 +14,24 @@ nav {
   color: var(--navbar-font-color);
   height: calc(var(--navbar-height) * 1px);
   box-sizing: border-box;
+  padding: 10px 2%;
   display: flex;
-  padding: 10px 1rem;
+  justify-content: space-between;
+  align-items: center;
 }
 
 nav a {
   text-decoration: none;
   color: inherit;
+}
+
+.flex-center {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+}
+
+.navbar__links {
+  list-style: none;
+  padding-left: 0.5rem;
 }
