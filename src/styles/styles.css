@@ -14,7 +14,7 @@ nav {
   color: var(--navbar-font-color);
   height: calc(var(--navbar-height) * 1px);
   box-sizing: border-box;
-  padding: 10px 2%;
+  padding: 10px 1.5rem;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -63,6 +63,10 @@ nav a {
 }
 
 @media (max-width: 480px) {
+  nav {
+    padding-left: 0.5rem;
+    padding-right: 0.75rem;
+  }
   .navbar__main-site h1 {
     display: none;
   }
